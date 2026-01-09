@@ -70,8 +70,4 @@ This automation creates a complete customer support system using:
 - ✅ **Analytics Ready** - All data stored in Airtable for reporting
 
 
-- [Airtable API](https://airtable.com/developers/web/api/introduction)
 
----
-
-Built with ❤️ using N8N, WhatsApp, OpenAI, and Airtable
